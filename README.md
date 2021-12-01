@@ -1,2 +1,2 @@
-# Sardor_Ochilov
+# Copywrite
 Mycodes_from_lesson
